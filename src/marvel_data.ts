@@ -37,7 +37,7 @@ export const marvel_characters_list = [
   },
   {
     naam: "Black Widow",
-    small_image: "/images/characters/black-widow-large.png",
+    small_image: "/images/characters/black-widow-small.png",
     base_attack: 70,
     base_defense: 65,
     speed_stat: 95,
@@ -64,7 +64,7 @@ export const marvel_characters_list = [
   },
   {
     naam: "Doctor Strange",
-    small_image: "/images/characters/doctor-strange-large.webp",
+    small_image: "/images/characters/doctor-strange-large.png",
     base_attack: 90,
     base_defense: 75,
     speed_stat: 65,
@@ -73,7 +73,7 @@ export const marvel_characters_list = [
   },
   {
     naam: "Scarlet Witch",
-    small_image: "/images/characters/scarlet-witch-small.png",
+    small_image: "/images/characters/scarlet-witch-large.png",
     base_attack: 95,
     base_defense: 60,
     speed_stat: 70,
