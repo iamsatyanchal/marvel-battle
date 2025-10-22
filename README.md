@@ -21,5 +21,6 @@ Choose your favorite heroes.. set the stage and watch them clash in epic and com
 4. Sit back and watch the SHOWWW  
 5. At the end check stats of each player  
 
+----------------------------------
 
-**Built with ⚡ by a Marvel lover — Satya**
+**Built with ⚡ by a Marvel fan — Satya**
